@@ -1,0 +1,92 @@
+{
+    "Arabica": [
+        {
+            "foto": "images/produk/arabica_papua.jpg",
+            "nama": "Arabica Wamena - Papua",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/arabica_bali.jpg",
+            "nama": "Arabica Kintamani - Bali",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/arabica_bajawa.jpg",
+            "nama": "Arabica Bajawa - Flores",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/arabica_gayo.jpg",
+            "nama": "Arabica Gayo",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "Robusta": [
+        {
+            "foto": "images/produk/robusta_flores.jpg",
+            "nama": "Robusta Flores",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/robusta_pupan.jpg",
+            "nama": "Robusta Pupuan",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/robusta_temanggung.jpg",
+            "nama": "Robusta Temanggung",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/robusta_jawa.jpg",
+            "nama": "Robusta Jawa",
+            "size": "1 cangkir",
+            "harga": "Rp    15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Snack": [
+        {
+            "foto": "images/produk/pisang_goreng.jpg",
+            "nama": "Pisang Goreng",
+            "size": "8 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/donat.jpg",
+            "nama": "Donat",
+            "size": "8 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/ubi_goreng.jpg",
+            "nama": "Ubi Goreng",
+            "size": "8 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/mozarelastick.jpg",
+            "nama": "Mozzarella Stick",
+            "size": "8 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
